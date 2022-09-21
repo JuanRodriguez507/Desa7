@@ -1,0 +1,5 @@
+
+como dice la regla que cuando una clase es final no se va apoder herredar de ninguna de sus metodos ni variables y mucho menos heredar la clase.
+
+/*****/
+en este ejemplo mandaria un error porque el metodo mastests(); es de tipo final y cuando un metodo o variable tiene la palabra final no se podra heredar, al igual que el siguiente problema, no se puede heredar la clase porque mandaria un error fatal, porque una clase cuando es final nose puede heredar.
