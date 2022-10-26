@@ -1,7 +1,7 @@
   <?PHP
   session_start();
 ?>
-<HTML XMLNS="http://www.w3.org/1999/xhtml" xml:lang="es" LANG="es"
+<HTML XMLNS="http://www.w3.org/1999/xhtml" xml:lang="es" LANG="es">
 <HEAD>
 	<TITLE>Laboratorio 12</TITLE>
 	<LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo.css">
