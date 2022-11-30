@@ -53,3 +53,19 @@ PREPARE stmt FROM @S;
 EXECUTE stmt;
 DEALLOCATE PREPARE stmt;
     END;
+
+
+
+
+
+
+
+    CREATE TABLE usuarios (
+    id SMALLINT(5) unsigned not null AUTO_INCREMENT,
+    usuario varchar(20) NOT NULL DEFAULT '',
+    clave varchar(20) NOT NULL DEFAULT '',
+    PRIMARY KEY (id)
+    )
+
+
+    
