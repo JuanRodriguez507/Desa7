@@ -47,3 +47,4 @@
   <h1>Hubo un problema</h1>
   <p>Lamentablemente tu pedido no ha podido ser confirmado. Por favor, vuelva a intentar.</p>
 <?php endif; ?>
+

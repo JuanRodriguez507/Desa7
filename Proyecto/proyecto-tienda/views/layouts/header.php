@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Tienda QTS PTY</title>
+  <title>Tienda MotoSport</title>
   <link rel="stylesheet" href="<?= URL_BASE; ?>assets/css/main.css">
 </head>
 
@@ -14,7 +14,7 @@
     <header>
       <div id="logo">
         <img src="<?= URL_BASE; ?>assets/img/moto2.jpg" alt="Logo">
-        <a href="<?= URL_BASE; ?>">Tienda</a>
+        <a href="<?= URL_BASE; ?>"></a>
       </div>
     </header>
 

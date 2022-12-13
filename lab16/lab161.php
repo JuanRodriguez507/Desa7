@@ -37,6 +37,7 @@ $cliente=new SoapClient ($servicio, $parametros);
 $resultObj=$cliente-›FahrenheitToCelsius($parametros);
 $resultado=$resultObj-›FahrenheitToCelsiusResult;
 }
+
 print ("BR>La temperatura $valor".substr($temp,0,1)." es iqual a:
                                   $resultado".substr ($temp, 3, 1)) ;
 }

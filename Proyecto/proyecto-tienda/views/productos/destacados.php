@@ -14,3 +14,4 @@
     <a href="<?= URL_BASE; ?>Carrito/agregar&id=<?= $pro->id; ?>" class="btn">Comprar</a>
   </div>
 <?php endwhile; ?>
+

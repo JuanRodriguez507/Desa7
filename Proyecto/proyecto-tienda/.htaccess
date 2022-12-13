@@ -10,3 +10,4 @@ RewriteCond %{SCRIPT_FILENAME} !-f
 # Esto permite sobreescribir la ruta y convertirla a url amigable
 RewriteRule ^(.*)/(.*) index.php?controller=$1&accion=$2
 </IfModule>
+

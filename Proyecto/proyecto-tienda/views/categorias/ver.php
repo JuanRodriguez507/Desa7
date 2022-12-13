@@ -21,3 +21,4 @@
 <?php else : ?>
   <h1>La categoria no existe</h1>
 <?php endif; ?>
+
